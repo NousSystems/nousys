@@ -2,10 +2,10 @@ import Image from 'next/image'
 
 import { Container } from '@/components/Container'
 import { SectionHeading } from '@/components/SectionHeading'
-import duotoneImage from '@/images/NousV1.png'
-import gridsImage from '@/images/nousA1.png'
-import setupImage from '@/images/smartbond.png'
-import strokesImage from '@/images/nousM1.png'
+import duotoneImage from '../images/NousV1.png'
+import gridsImage from '../images/NousA1.png'
+import setupImage from '../images/smartbond.png'
+import strokesImage from '../images/NousM1.png'
 
 const videos = [
   {
