@@ -88,7 +88,7 @@ export function Invest() {
               <div className="order-1 mt-8">
                 <ul className="-my-2 divide-y divide-white/10 text-base tracking-tight text-white">
                   {[
-                    'Fixed yield',
+                    'Fix yield',
                     'Beat the bear market',
                     'Rewards in USDT',
                     
